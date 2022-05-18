@@ -1543,7 +1543,6 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="Soprano">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
@@ -1551,7 +1550,6 @@
           <midiChannel>8</midiChannel>
           </Channel>
         <Channel name="Alto">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
@@ -1619,7 +1617,6 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="Tenor">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
@@ -1627,7 +1624,6 @@
           <midiChannel>11</midiChannel>
           </Channel>
         <Channel name="Bass">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
@@ -2017,7 +2013,7 @@
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -2075,9 +2071,6 @@
         </Measure>
       <Measure>
         <voice>
-          <RehearsalMark>
-            <text>A</text>
-            </RehearsalMark>
           <RehearsalMark>
             <text>A</text>
             </RehearsalMark>
@@ -6234,6 +6227,9 @@
     <Staff id="17">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -12007,6 +12003,9 @@
     <Staff id="18">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -23186,6 +23185,9 @@
     <Staff id="24">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -23448,6 +23450,9 @@
     <Staff id="25">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
