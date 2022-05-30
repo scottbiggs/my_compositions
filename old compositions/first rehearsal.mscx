@@ -10,11 +10,7 @@
       <pageWidth>8.26771</pageWidth>
       <pageHeight>11.6929</pageHeight>
       <pagePrintableWidth>7.48031</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <harmonyPlay>0</harmonyPlay>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
@@ -46,7 +42,7 @@
           </StaffType>
         </Staff>
       <trackName>Flute, untitled</trackName>
-      <Instrument>
+      <Instrument id="flute">
         <longName>Flute, untitled</longName>
         <shortName>Fl.</shortName>
         <trackName>Flute</trackName>
@@ -84,6 +80,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <controller ctrl="7" value="127"/>
@@ -99,7 +96,7 @@
         <defaultTransposingClef>F</defaultTransposingClef>
         </Staff>
       <trackName>Contrabass</trackName>
-      <Instrument>
+      <Instrument id="contrabass">
         <longName>Contrabass</longName>
         <shortName>Cb.</shortName>
         <trackName>Contrabass</trackName>
@@ -141,6 +138,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="43"/>
           <controller ctrl="7" value="127"/>
@@ -151,6 +149,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -165,7 +164,7 @@
         <defaultTransposingClef>F</defaultTransposingClef>
         </Staff>
       <trackName>Contrabass</trackName>
-      <Instrument>
+      <Instrument id="contrabass">
         <longName>Contrabass</longName>
         <shortName>Cb.</shortName>
         <trackName>Contrabass</trackName>
@@ -216,6 +215,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -226,32 +226,15 @@
       <Measure>
         <voice>
           <TimeSig>
-            <sigN>1</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Tempo>
-            <tempo>1.93333</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 116</text>
-            </Tempo>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
-            </Rest>
-          <location>
-            <fractions>-1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1000000000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 66</text>
-            </Tempo>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>1.1000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 66</text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -261,26 +244,11 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
           <Tempo>
-            <tempo>1.1166700000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 67</text>
-            </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1333299999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 68</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1499999999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 69</text>
+            <tempo>1.145</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 68.7</text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -294,23 +262,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/80</fractions>
-            </location>
           <Tempo>
-            <tempo>1.1666700000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 70</text>
+            <tempo>1.1883333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 71.3</text>
             </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.18333</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 71</text>
-            </Tempo>
-          <location>
-            <fractions>1/160</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -320,25 +277,10 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
           <Tempo>
-            <tempo>1.2</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 72</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.2166699999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 73</text>
-            </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.23333</tempo>
+            <tempo>1.2333333333333334</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 74</text>
             </Tempo>
           <Chord>
@@ -353,23 +295,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-23/480</fractions>
-            </location>
           <Tempo>
-            <tempo>1.25</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 75</text>
+            <tempo>1.2783333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 76.7</text>
             </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.26667</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 76</text>
-            </Tempo>
-          <location>
-            <fractions>1/60</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -382,30 +313,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-5/96</fractions>
-            </location>
           <Tempo>
-            <tempo>1.2833300000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 77</text>
+            <tempo>1.3216666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 79.3</text>
             </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.3</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 78</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.31667</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 79</text>
-            </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -415,30 +328,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-23/480</fractions>
-            </location>
           <Tempo>
-            <tempo>1.3333299999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 80</text>
-            </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.3500000000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 81</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.3666700000000001</tempo>
+            <tempo>1.3666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 82</text>
             </Tempo>
-          <location>
-            <fractions>1/60</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -451,30 +346,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
           <Tempo>
-            <tempo>1.3833299999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 83</text>
+            <tempo>1.4116666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 84.7</text>
             </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.3999999999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 84</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.4166700000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 85</text>
-            </Tempo>
-          <location>
-            <fractions>1/96</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -484,26 +361,11 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-23/480</fractions>
-            </location>
           <Tempo>
-            <tempo>1.43333</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 86</text>
-            </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.45</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 87</text>
-            </Tempo>
-          <location>
-            <fractions>1/60</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.4666699999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 88</text>
+            <tempo>1.4549999999999998</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 87.3</text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -517,23 +379,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.48333</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 89</text>
-            </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
           <Tempo>
             <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 90</text>
             </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -543,26 +394,11 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-7/120</fractions>
-            </location>
           <Tempo>
-            <tempo>1.51667</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 91</text>
-            </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.5333300000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 92</text>
-            </Tempo>
-          <location>
-            <fractions>13/480</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.55</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 93</text>
+            <tempo>1.5450000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 92.7</text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -576,30 +412,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-5/96</fractions>
-            </location>
           <Tempo>
-            <tempo>1.56667</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 94</text>
+            <tempo>1.5883333333333334</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 95.3</text>
             </Tempo>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.5833299999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 95</text>
-            </Tempo>
-          <location>
-            <fractions>7/480</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.6000000000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 96</text>
-            </Tempo>
-          <location>
-            <fractions>1/160</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -612,20 +430,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/80</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.6166700000000001</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 97</text>
-            </Tempo>
-          <location>
-            <fractions>1/48</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.6333299999999999</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 98</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
@@ -634,6 +438,11 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>1.6333333333333333</tempo>
+            <followText>1</followText>
+            <text><sym>metNoteQuarterUp</sym> = 98</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2563,7 +2372,7 @@
         <voice>
           <Tempo>
             <tempo>0.80000000000000004</tempo>
-            <text><sym>metNoteQuarterUp</sym> = 48</text>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 52</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -2803,6 +2612,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>86</pitch>
@@ -2821,6 +2631,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -2833,6 +2644,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>84</pitch>
@@ -2851,6 +2663,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -2915,6 +2728,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>84</pitch>
@@ -2933,6 +2747,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -3036,9 +2851,10 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>76</pitch>
@@ -3316,6 +3132,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -3352,6 +3169,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>80</pitch>
@@ -3373,7 +3191,10 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -3384,10 +3205,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>77</pitch>
@@ -3430,6 +3249,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>80</pitch>
@@ -3776,6 +3596,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -3817,13 +3638,7 @@
             <sigD>16</sigD>
             </TimeSig>
           <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -3872,6 +3687,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -3922,6 +3738,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -3931,7 +3748,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
@@ -3946,10 +3763,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -3981,6 +3795,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -4063,6 +3878,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -4201,6 +4017,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
@@ -4332,18 +4149,6 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>1</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <voice>
           <TimeSig>
@@ -6634,6 +6439,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>52</pitch>
@@ -6668,6 +6474,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>40</pitch>
@@ -6677,6 +6484,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>55</pitch>
@@ -6686,6 +6494,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>38</pitch>
@@ -6695,6 +6504,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>53</pitch>
@@ -6735,6 +6545,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>50</pitch>
@@ -6753,6 +6564,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -6765,6 +6577,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>48</pitch>
@@ -6783,6 +6596,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7048,7 +6862,10 @@
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -7059,9 +6876,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -7075,6 +6889,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7090,7 +6905,10 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -7098,10 +6916,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7129,6 +6945,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7417,7 +7234,8 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>46</pitch>
               <tpc>12</tpc>
@@ -7425,9 +7243,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7465,6 +7280,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>41</pitch>
@@ -7528,6 +7344,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7585,6 +7402,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7629,7 +7447,10 @@
             <sigD>16</sigD>
             </TimeSig>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>40</pitch>
               <tpc>18</tpc>
@@ -7637,11 +7458,11 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -7652,10 +7473,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7738,6 +7557,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>52</pitch>
@@ -7806,8 +7626,7 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
-            <durationType>32nd</durationType>
+            <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
@@ -7821,9 +7640,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -7840,6 +7656,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -7852,7 +7669,10 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>32nd</durationType>
+            <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
@@ -7860,9 +7680,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>32nd</durationType>
-            </Rest>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -7876,6 +7693,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>36</pitch>
@@ -7902,13 +7720,7 @@
             <sigD>16</sigD>
             </TimeSig>
           <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -8080,6 +7892,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>42</pitch>
@@ -8197,18 +8010,6 @@
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>1</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <voice>
           <TimeSig>

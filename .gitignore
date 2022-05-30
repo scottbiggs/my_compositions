@@ -1,0 +1,2 @@
+# ignore all occurrances of the musescore backup directory
+.mscbackup/
