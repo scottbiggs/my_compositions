@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -10,7 +11,11 @@
       <pageWidth>8.26771</pageWidth>
       <pageHeight>11.6929</pageHeight>
       <pagePrintableWidth>7.48031</pagePrintableWidth>
+      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
+      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <harmonyPlay>0</harmonyPlay>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
@@ -48,7 +53,7 @@
           </StaffType>
         </Staff>
       <trackName>Piano, Fantasy</trackName>
-      <Instrument id="piano">
+      <Instrument>
         <longName>Piano, Fantasy</longName>
         <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
@@ -9149,10 +9154,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -9309,19 +9314,19 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -9401,19 +9406,19 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -9493,19 +9498,19 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -9585,19 +9590,19 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17518,10 +17523,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17538,28 +17543,28 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>96</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>96</velocity>
               <veloType>user</veloType>
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>51</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>96</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17672,7 +17677,7 @@
             <durationType>whole</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
@@ -17684,7 +17689,7 @@
                   </next>
                 </Spanner>
               <pitch>44</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17722,7 +17727,7 @@
                   </prev>
                 </Spanner>
               <pitch>44</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17833,7 +17838,7 @@
               </Note>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
@@ -17845,7 +17850,7 @@
                   </next>
                 </Spanner>
               <pitch>51</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
@@ -17878,7 +17883,7 @@
                   </prev>
                 </Spanner>
               <pitch>51</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>50</velocity>
               <veloType>user</veloType>
               </Note>
