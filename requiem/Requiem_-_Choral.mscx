@@ -33394,15 +33394,6 @@
           <Chord>
             <durationType>breve</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -33410,25 +33401,6 @@
           </voice>
         </Measure>
       <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          </voice>
         <voice>
           <Chord>
             <durationType>breve</durationType>
@@ -33440,39 +33412,6 @@
           </voice>
         </Measure>
       <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
         <voice>
           <Chord>
             <durationType>breve</durationType>
@@ -33487,23 +33426,6 @@
           </voice>
         </Measure>
       <Measure>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>3/2</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -33523,22 +33445,6 @@
           </voice>
         </Measure>
       <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -33575,6 +33481,9 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <text>Add Tenors</text>
+            </StaffText>
           <Chord>
             <durationType>breve</durationType>
             <Note>
