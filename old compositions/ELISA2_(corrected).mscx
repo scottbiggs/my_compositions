@@ -14,6 +14,7 @@
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <harmonyPlay>0</harmonyPlay>
+      <createMultiMeasureRests>1</createMultiMeasureRests>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>206</defaultsVersion>
       <Spatium>1.76389</Spatium>
