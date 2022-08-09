@@ -10,6 +10,8 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <concertPitch>1</concertPitch>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <Spatium>0.95</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -1094,6 +1096,7 @@
         <bracket type="0" span="7" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Glockenspiel</trackName>
       <Instrument id="glockenspiel">
         <longName>Celesta (Glockenspiel)</longName>
@@ -1163,6 +1166,7 @@
           </StaffType>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Vibraphone</trackName>
       <Instrument id="vibraphone">
         <longName>Vibraphone</longName>
@@ -1230,6 +1234,7 @@
         <defaultTransposingClef>G</defaultTransposingClef>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Xylophone</trackName>
       <Instrument id="xylophone">
         <longName>Xylophone</longName>
@@ -1299,6 +1304,7 @@
           </StaffType>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Marimba (Single Staff)</trackName>
       <Instrument id="marimba-single">
         <longName>Marimba</longName>
@@ -1503,6 +1509,7 @@
           </StaffType>
         <defaultClef>PERC</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Cymbal</trackName>
       <Instrument id="cymbal">
         <longName>Cymbal</longName>
@@ -1572,6 +1579,7 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Piano</trackName>
       <Instrument id="piano">
         <longName>Piano</longName>
@@ -1645,6 +1653,7 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Harp</trackName>
       <Instrument id="harp">
         <longName>Harp</longName>
@@ -2238,6 +2247,41 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 62</b></text>
             </Tempo>
+          <StaffText>
+            <text></text>
+            </StaffText>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>
@@ -2345,41 +2389,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <RehearsalMark>
-            <text>B</text>
-            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>
@@ -7840,9 +7849,6 @@
     <Staff id="17">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -19221,9 +19227,6 @@
     <Staff id="19">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -31712,9 +31715,6 @@
     <Staff id="24">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -35870,9 +35870,6 @@
     <Staff id="25">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -41308,13 +41305,13 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <text>Bass</text>
+            </StaffText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <StaffText>
-            <text>Bass</text>
-            </StaffText>
           <Chord>
             <durationType>breve</durationType>
             <Note>
@@ -43480,9 +43477,6 @@
     <Staff id="34">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
