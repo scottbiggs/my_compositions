@@ -308,10 +308,10 @@
             <linkedMain/>
             </Dynamic>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.7</tempo>
             <linkedMain/>
-            <visible>0</visible>
-            <text>Adagio</text>
+            <size>11</size>
+            <text>moderato</text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -646,9 +646,10 @@
             <linkedMain/>
             </Dynamic>
           <Tempo>
-            <tempo>1.7</tempo>
+            <tempo>1.6333333333333333</tempo>
             <linkedMain/>
-            <text>meno mosso</text>
+            <size>11</size>
+            <text>poco meno mosso</text>
             </Tempo>
           <Spanner type="Volta">
             <prev>
@@ -859,7 +860,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.7</tempo>
             <linkedMain/>
             <text>a tempo</text>
             </Tempo>
@@ -1006,7 +1007,8 @@
           <Tempo>
             <tempo>1.5</tempo>
             <linkedMain/>
-            <text>Maestoso</text>
+            <size>11</size>
+            <text>maestoso</text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -1165,9 +1167,10 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.7</tempo>
             <linkedMain/>
-            <text>a tempo</text>
+            <size>11</size>
+            <text>tempo primo</text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -1321,9 +1324,9 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.7</tempo>
+            <tempo>1.6333333333333333</tempo>
             <linkedMain/>
-            <text>meno mosso</text>
+            <text>poco meno mosso</text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -5197,11 +5200,11 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 </linked>
               <visible>0</visible>
-              <text>Adagio</text>
+              <text>moderato</text>
               </Tempo>
             <Chord>
               <linked>
@@ -5596,10 +5599,10 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
               <prev>
@@ -5851,7 +5854,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 </linked>
               <text>a tempo</text>
@@ -6026,7 +6029,7 @@
               <tempo>1.5</tempo>
               <linked>
                 </linked>
-              <text>Maestoso</text>
+              <text>maestoso</text>
               </Tempo>
             <Rest>
               <linked>
@@ -6214,10 +6217,10 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 </linked>
-              <text>a tempo</text>
+              <text>tempo primo</text>
               </Tempo>
             <Chord>
               <linked>
@@ -6404,10 +6407,10 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Rest>
               <linked>
@@ -6705,7 +6708,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -6713,7 +6716,7 @@
                 <indexDiff>5</indexDiff>
                 </linked>
               <visible>0</visible>
-              <text>Adagio</text>
+              <text>moderato</text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -7159,14 +7162,14 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
                   </location>
                 <indexDiff>3</indexDiff>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
               <prev>
@@ -7435,7 +7438,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -7647,7 +7650,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>Maestoso</text>
+              <text>maestoso</text>
               </Tempo>
             <Dynamic>
               <subtype>f</subtype>
@@ -7849,14 +7852,14 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>a tempo</text>
+              <text>tempo primo</text>
               </Tempo>
             <Chord>
               <linked>
@@ -8060,13 +8063,13 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
                   </location>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Chord>
               <linked>
@@ -8449,7 +8452,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -8457,7 +8460,7 @@
                 <indexDiff>5</indexDiff>
                 </linked>
               <visible>0</visible>
-              <text>Adagio</text>
+              <text>moderato</text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -8888,14 +8891,14 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
                   </location>
                 <indexDiff>3</indexDiff>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
               <prev>
@@ -9167,7 +9170,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -9339,7 +9342,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>Maestoso</text>
+              <text>maestoso</text>
               </Tempo>
             <Dynamic>
               <subtype>f</subtype>
@@ -9547,14 +9550,14 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>a tempo</text>
+              <text>tempo primo</text>
               </Tempo>
             <Chord>
               <linked>
@@ -9758,13 +9761,13 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
                   </location>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Rest>
               <linked>
@@ -10135,7 +10138,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -10143,7 +10146,7 @@
                 <indexDiff>5</indexDiff>
                 </linked>
               <visible>0</visible>
-              <text>Adagio</text>
+              <text>moderato</text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -10561,14 +10564,14 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
                   </location>
                 <indexDiff>3</indexDiff>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
               <prev>
@@ -10828,7 +10831,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -10952,7 +10955,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>Maestoso</text>
+              <text>maestoso</text>
               </Tempo>
             <Dynamic>
               <subtype>f</subtype>
@@ -11136,14 +11139,14 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.7</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
-              <text>a tempo</text>
+              <text>tempo primo</text>
               </Tempo>
             <Chord>
               <linked>
@@ -11338,13 +11341,13 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6333333333333333</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
                   </location>
                 </linked>
-              <text>meno mosso</text>
+              <text>poco meno mosso</text>
               </Tempo>
             <Rest>
               <linked>
