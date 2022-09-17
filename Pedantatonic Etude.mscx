@@ -2100,15 +2100,100 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>2</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -2224,6 +2309,10 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -3962,15 +4051,104 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>2</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -4094,6 +4272,10 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -5913,15 +6095,100 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>2</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -6037,6 +6304,10 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -8309,17 +8580,117 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>2</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>measure</durationType>
+              <duration>2/4</duration>
               </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8454,6 +8825,11 @@
               <durationType>eighth</durationType>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
@@ -10650,17 +11026,121 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>2</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>measure</durationType>
+              <duration>2/4</duration>
               </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                <tpc2>17</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                <tpc2>16</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
+                <tpc2>18</tpc2>
+                </Note>
+              </Chord>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10803,6 +11283,11 @@
               <durationType>eighth</durationType>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
@@ -13109,17 +13594,117 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>2</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>measure</durationType>
+              <duration>2/4</duration>
               </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>43</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>50</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>45</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -13254,6 +13839,11 @@
               <durationType>eighth</durationType>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
