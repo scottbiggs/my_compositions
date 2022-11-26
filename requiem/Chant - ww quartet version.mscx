@@ -990,19 +990,8 @@
         <voice>
           <TimeSig>
             <linkedMain/>
-            <sigN>10</sigN>
+            <sigN>3</sigN>
             <sigD>4</sigD>
-            <Groups>
-              <Node pos="8" action="16"/>
-              <Node pos="16" action="17"/>
-              <Node pos="24" action="16"/>
-              <Node pos="32" action="17"/>
-              <Node pos="40" action="16"/>
-              <Node pos="48" action="17"/>
-              <Node pos="56" action="16"/>
-              <Node pos="64" action="17"/>
-              <Node pos="72" action="16"/>
-              </Groups>
             </TimeSig>
           <Tempo>
             <tempo>1.5</tempo>
@@ -1012,16 +1001,13 @@
             </Tempo>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
             </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
@@ -1054,6 +1040,15 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -1319,6 +1314,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -1361,6 +1360,10 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -2204,19 +2207,8 @@
         <voice>
           <TimeSig>
             <linkedMain/>
-            <sigN>10</sigN>
+            <sigN>3</sigN>
             <sigD>4</sigD>
-            <Groups>
-              <Node pos="8" action="16"/>
-              <Node pos="16" action="17"/>
-              <Node pos="24" action="16"/>
-              <Node pos="32" action="17"/>
-              <Node pos="40" action="16"/>
-              <Node pos="48" action="17"/>
-              <Node pos="56" action="16"/>
-              <Node pos="64" action="17"/>
-              <Node pos="72" action="16"/>
-              </Groups>
             </TimeSig>
           <Dynamic>
             <subtype>f</subtype>
@@ -2253,6 +2245,10 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2283,6 +2279,15 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2545,6 +2550,10 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -2647,6 +2656,10 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -3453,19 +3466,8 @@
         <voice>
           <TimeSig>
             <linkedMain/>
-            <sigN>10</sigN>
+            <sigN>3</sigN>
             <sigD>4</sigD>
-            <Groups>
-              <Node pos="8" action="16"/>
-              <Node pos="16" action="17"/>
-              <Node pos="24" action="16"/>
-              <Node pos="32" action="17"/>
-              <Node pos="40" action="16"/>
-              <Node pos="48" action="17"/>
-              <Node pos="56" action="16"/>
-              <Node pos="64" action="17"/>
-              <Node pos="72" action="16"/>
-              </Groups>
             </TimeSig>
           <Dynamic>
             <subtype>f</subtype>
@@ -3502,6 +3504,10 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -3532,6 +3538,15 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -3800,6 +3815,10 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -3893,6 +3912,10 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -4616,19 +4639,8 @@
         <voice>
           <TimeSig>
             <linkedMain/>
-            <sigN>10</sigN>
+            <sigN>3</sigN>
             <sigD>4</sigD>
-            <Groups>
-              <Node pos="8" action="16"/>
-              <Node pos="16" action="17"/>
-              <Node pos="24" action="16"/>
-              <Node pos="32" action="17"/>
-              <Node pos="40" action="16"/>
-              <Node pos="48" action="17"/>
-              <Node pos="56" action="16"/>
-              <Node pos="64" action="17"/>
-              <Node pos="72" action="16"/>
-              </Groups>
             </TimeSig>
           <Dynamic>
             <subtype>f</subtype>
@@ -4662,6 +4674,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -4692,11 +4708,23 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>49</pitch>
               <tpc>9</tpc>
               </Note>
@@ -4932,6 +4960,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -4969,6 +5001,10 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -6011,41 +6047,26 @@
             <TimeSig>
               <linked>
                 </linked>
-              <sigN>10</sigN>
+              <sigN>3</sigN>
               <sigD>4</sigD>
-              <Groups>
-                <Node pos="8" action="16"/>
-                <Node pos="16" action="17"/>
-                <Node pos="24" action="16"/>
-                <Node pos="32" action="17"/>
-                <Node pos="40" action="16"/>
-                <Node pos="48" action="17"/>
-                <Node pos="56" action="16"/>
-                <Node pos="64" action="17"/>
-                <Node pos="72" action="16"/>
-                </Groups>
               </TimeSig>
             <Tempo>
               <tempo>1.5</tempo>
               <linked>
                 </linked>
+              <size>11</size>
               <text>maestoso</text>
               </Tempo>
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>3/4</duration>
               </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
@@ -6056,6 +6077,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6067,6 +6090,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6078,6 +6103,31 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6089,17 +6139,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6111,6 +6152,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6122,6 +6165,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -6402,6 +6447,11 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -6450,6 +6500,11 @@
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -7628,19 +7683,8 @@
             <TimeSig>
               <linked>
                 </linked>
-              <sigN>10</sigN>
+              <sigN>3</sigN>
               <sigD>4</sigD>
-              <Groups>
-                <Node pos="8" action="16"/>
-                <Node pos="16" action="17"/>
-                <Node pos="24" action="16"/>
-                <Node pos="32" action="17"/>
-                <Node pos="40" action="16"/>
-                <Node pos="48" action="17"/>
-                <Node pos="56" action="16"/>
-                <Node pos="64" action="17"/>
-                <Node pos="72" action="16"/>
-                </Groups>
               </TimeSig>
             <Tempo>
               <tempo>1.5</tempo>
@@ -7650,6 +7694,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <size>11</size>
               <text>maestoso</text>
               </Tempo>
             <Dynamic>
@@ -7664,6 +7709,8 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -7677,6 +7724,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7689,6 +7738,26 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7701,6 +7770,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7713,6 +7784,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7721,22 +7794,22 @@
                 <tpc2>14</tpc2>
                 </Note>
               </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
-                <tpc2>14</tpc2>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7749,6 +7822,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7761,6 +7836,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7773,6 +7850,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -8058,6 +8137,11 @@
                 <tpc2>17</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -8068,15 +8152,18 @@
                 <location>
                   <staves>-1</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <text>poco meno mosso</text>
               </Tempo>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>65</pitch>
                 <tpc>13</tpc>
@@ -8187,6 +8274,11 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -9320,19 +9412,8 @@
             <TimeSig>
               <linked>
                 </linked>
-              <sigN>10</sigN>
+              <sigN>3</sigN>
               <sigD>4</sigD>
-              <Groups>
-                <Node pos="8" action="16"/>
-                <Node pos="16" action="17"/>
-                <Node pos="24" action="16"/>
-                <Node pos="32" action="17"/>
-                <Node pos="40" action="16"/>
-                <Node pos="48" action="17"/>
-                <Node pos="56" action="16"/>
-                <Node pos="64" action="17"/>
-                <Node pos="72" action="16"/>
-                </Groups>
               </TimeSig>
             <Tempo>
               <tempo>1.5</tempo>
@@ -9342,6 +9423,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <size>11</size>
               <text>maestoso</text>
               </Tempo>
             <Dynamic>
@@ -9356,6 +9438,8 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -9369,6 +9453,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9381,6 +9467,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9389,10 +9477,16 @@
                 <tpc2>13</tpc2>
                 </Note>
               </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9405,6 +9499,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9417,6 +9513,32 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>13</tpc2>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9429,18 +9551,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                <tpc2>13</tpc2>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9453,6 +9565,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9468,6 +9582,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9756,6 +9872,11 @@
                 <tpc2>16</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -9766,11 +9887,13 @@
                 <location>
                   <staves>-2</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <text>poco meno mosso</text>
               </Tempo>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
@@ -9874,6 +9997,11 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -10933,19 +11061,8 @@
             <TimeSig>
               <linked>
                 </linked>
-              <sigN>10</sigN>
+              <sigN>3</sigN>
               <sigD>4</sigD>
-              <Groups>
-                <Node pos="8" action="16"/>
-                <Node pos="16" action="17"/>
-                <Node pos="24" action="16"/>
-                <Node pos="32" action="17"/>
-                <Node pos="40" action="16"/>
-                <Node pos="48" action="17"/>
-                <Node pos="56" action="16"/>
-                <Node pos="64" action="17"/>
-                <Node pos="72" action="16"/>
-                </Groups>
               </TimeSig>
             <Tempo>
               <tempo>1.5</tempo>
@@ -10955,6 +11072,7 @@
                   </location>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <size>11</size>
               <text>maestoso</text>
               </Tempo>
             <Dynamic>
@@ -10969,6 +11087,8 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -10981,6 +11101,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -10992,6 +11114,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -10999,10 +11123,16 @@
                 <tpc>12</tpc>
                 </Note>
               </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11014,6 +11144,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11028,9 +11160,37 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>49</pitch>
                 <tpc>9</tpc>
                 </Note>
@@ -11039,17 +11199,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>49</pitch>
-                <tpc>9</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11061,6 +11212,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11072,6 +11225,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11336,6 +11491,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
@@ -11346,11 +11506,13 @@
                 <location>
                   <staves>-3</staves>
                   </location>
+                <indexDiff>1</indexDiff>
                 </linked>
               <text>poco meno mosso</text>
               </Tempo>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -11387,6 +11549,11 @@
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             </voice>
           </Measure>
         <Measure>
