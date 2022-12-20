@@ -176,7 +176,7 @@
             </Tempo>
           <StaffText>
             <offset x="-1.01262" y="-1.50631"/>
-            <text>Basic</text>
+            <text>Blaydon_Races</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -1296,6 +1296,7 @@
       <Measure>
         <voice>
           <StaffText>
+            <offset x="-1.68771" y="-5.19077"/>
             <text>Steven Prior's</text>
             </StaffText>
           <Harmony>
@@ -2044,8 +2045,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
