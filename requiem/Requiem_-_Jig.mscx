@@ -9,7 +9,6 @@
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <hideEmptyStaves>1</hideEmptyStaves>
       <Spatium>0.95</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
