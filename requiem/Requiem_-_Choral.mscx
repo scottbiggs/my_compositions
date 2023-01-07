@@ -2247,9 +2247,6 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 62</b></text>
             </Tempo>
-          <StaffText>
-            <text></text>
-            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>
