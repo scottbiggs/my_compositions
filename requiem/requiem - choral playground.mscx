@@ -1481,17 +1481,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        <voice>
           <Chord>
             <durationType>whole</durationType>
             <Note>
