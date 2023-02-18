@@ -341,17 +341,28 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Tempo>
             <tempo>1.7</tempo>
             <linkedMain/>
             <size>11</size>
             <text>moderato</text>
             </Tempo>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -400,6 +411,18 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <linkedMain/>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -440,8 +463,8 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -1595,10 +1618,21 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -1647,6 +1681,18 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <linkedMain/>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -1687,8 +1733,8 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -2865,10 +2911,21 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2914,6 +2971,18 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <linkedMain/>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -2951,8 +3020,8 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -4088,10 +4157,21 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -4140,6 +4220,18 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <linkedMain/>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -4180,8 +4272,8 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -5307,12 +5399,6 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Tempo>
               <tempo>1.7</tempo>
               <linked>
@@ -5320,6 +5406,24 @@
               <visible>0</visible>
               <text>moderato</text>
               </Tempo>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -5374,6 +5478,19 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Dynamic>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -5418,8 +5535,8 @@
                 </Note>
               </Chord>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -6832,18 +6949,31 @@
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <visible>0</visible>
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -6907,6 +7037,19 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Dynamic>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -6957,8 +7100,8 @@
                 </Note>
               </Chord>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -8593,18 +8736,31 @@
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <visible>0</visible>
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -8665,6 +8821,19 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Dynamic>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8712,8 +8881,8 @@
                 </Note>
               </Chord>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -10295,18 +10464,31 @@
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <visible>0</visible>
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -10363,6 +10545,19 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Dynamic>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10407,8 +10602,8 @@
                 </Note>
               </Chord>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
               <linked>
                 </linked>
               </Dynamic>
