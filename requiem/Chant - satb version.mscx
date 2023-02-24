@@ -806,7 +806,7 @@
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <text>mus</text>
+              <text>mus.</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -2020,6 +2020,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2029,6 +2034,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2038,6 +2048,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>mo</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2047,6 +2062,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>sa</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2080,6 +2101,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>nunc</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2098,6 +2123,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2114,6 +2143,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>cras.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2132,6 +2165,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Ae</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2153,6 +2191,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ter</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2165,6 +2208,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>num</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2177,6 +2226,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>fle</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2186,6 +2240,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>bi</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2200,6 +2259,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2222,6 +2286,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2234,6 +2303,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>si</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2243,6 +2318,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>non</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2256,6 +2335,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>os</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2268,6 +2352,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ten</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2277,6 +2366,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>di</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2296,6 +2390,12 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2328,6 +2428,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2340,6 +2445,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2359,6 +2469,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mae.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2397,7 +2512,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>Oh.</text>
+              <text>O</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -3535,6 +3650,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3544,6 +3664,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3553,6 +3678,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>mo</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3562,6 +3692,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>sa</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -3592,6 +3728,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>nunc</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3610,6 +3750,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -3623,6 +3767,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>cras.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3641,6 +3789,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Ae</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -3659,6 +3812,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ter</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3671,6 +3829,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>num</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -3680,6 +3844,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>fle</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3689,6 +3858,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>bi</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3703,6 +3877,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3725,6 +3904,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3737,6 +3921,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>si</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3746,6 +3936,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>non</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3759,6 +3953,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>os</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3771,6 +3970,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ten</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3780,6 +3984,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>di</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3799,6 +4008,12 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3831,6 +4046,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3843,6 +4063,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3862,6 +4087,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mae.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3900,7 +4130,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>Oh.</text>
+              <text>O</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -5003,6 +5233,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5012,6 +5247,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5021,6 +5261,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>mo</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5030,6 +5275,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>sa</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5063,6 +5314,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>nunc</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5081,6 +5336,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5097,6 +5356,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>cras.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5115,6 +5378,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Ae</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5136,6 +5404,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ter</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5148,6 +5421,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>num</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5160,6 +5439,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>fle</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5169,6 +5453,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>bi</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5183,6 +5472,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5205,6 +5499,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>Et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5217,6 +5516,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>si</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -5226,6 +5531,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>non</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -5239,6 +5548,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>os</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5251,6 +5565,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>ten</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -5260,6 +5579,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>di</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -5279,6 +5603,12 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>mus.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5311,6 +5641,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5323,6 +5658,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -5342,6 +5682,11 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>mae.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -5380,7 +5725,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>Oh.</text>
+              <text>O</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -9624,8 +9969,6 @@
                   </linked>
                 <text>os</text>
                 </Lyrics>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9643,8 +9986,6 @@
                   </linked>
                 <text>ten</text>
                 </Lyrics>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9662,8 +10003,6 @@
                   </linked>
                 <text>di</text>
                 </Lyrics>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9694,7 +10033,7 @@
                 <ticks_f>0/4</ticks_f>
                 <linked>
                   </linked>
-                <text>mus</text>
+                <text>mus.</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -9750,8 +10089,6 @@
                   </linked>
                 <text>La</text>
                 </Lyrics>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -9769,8 +10106,6 @@
                   </linked>
                 <text>cri</text>
                 </Lyrics>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11180,6 +11515,13 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
@@ -11193,6 +11535,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11205,6 +11553,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>mo</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11217,6 +11571,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>sa</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11255,6 +11616,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>nunc</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11278,6 +11644,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11297,6 +11668,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>cras.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11320,6 +11696,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Ae</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11345,6 +11727,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ter</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11357,6 +11745,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>num</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11372,6 +11767,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>fle</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11384,6 +11785,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>bi</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11401,6 +11808,12 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11428,6 +11841,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11440,6 +11859,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>si</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11452,6 +11878,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>non</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11468,39 +11899,54 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>os</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>68</pitch>
+                <tpc>10</tpc>
+                <tpc2>12</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ten</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>68</pitch>
+                <tpc>10</tpc>
+                <tpc2>12</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>di</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>68</pitch>
+                <tpc>10</tpc>
+                <tpc2>12</tpc2>
                 </Note>
               </Chord>
             </voice>
@@ -11518,6 +11964,13 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -11573,27 +12026,38 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>68</pitch>
+                <tpc>10</tpc>
+                <tpc2>12</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>68</pitch>
+                <tpc>10</tpc>
+                <tpc2>12</tpc2>
                 </Note>
               </Chord>
             </voice>
@@ -11612,11 +12076,18 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mae.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>60</pitch>
-                <tpc>14</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
                 </Note>
               </Chord>
             <Spanner type="Volta">
@@ -11682,7 +12153,7 @@
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Oh.</text>
+                <text>O</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -13227,6 +13698,13 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
@@ -13240,6 +13718,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13252,6 +13736,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>mo</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13264,6 +13754,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>sa</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13299,6 +13796,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>nunc</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13322,6 +13824,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13338,6 +13845,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>cras.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13361,6 +13873,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Ae</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13383,6 +13901,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ter</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13395,6 +13919,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>num</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13407,6 +13938,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>fle</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13419,6 +13956,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>bi</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13436,6 +13979,12 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13463,6 +14012,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13475,6 +14030,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>si</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13487,6 +14049,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>non</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13503,39 +14070,54 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>os</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>61</pitch>
+                <tpc>9</tpc>
+                <tpc2>10</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ten</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>61</pitch>
+                <tpc>9</tpc>
+                <tpc2>10</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>di</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>61</pitch>
+                <tpc>9</tpc>
+                <tpc2>10</tpc2>
                 </Note>
               </Chord>
             </voice>
@@ -13553,6 +14135,13 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -13608,27 +14197,38 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>61</pitch>
+                <tpc>9</tpc>
+                <tpc2>10</tpc2>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>61</pitch>
+                <tpc>9</tpc>
+                <tpc2>10</tpc2>
                 </Note>
               </Chord>
             </voice>
@@ -13647,11 +14247,18 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mae.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                <tpc2>15</tpc2>
                 </Note>
               </Chord>
             <Spanner type="Volta">
@@ -13717,7 +14324,7 @@
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Oh.</text>
+                <text>O</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -15214,6 +15821,13 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
@@ -15226,6 +15840,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15237,6 +15857,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>mo</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15248,6 +15874,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>sa</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15282,6 +15915,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>nunc</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15304,6 +15942,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15319,6 +15962,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>cras.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15341,6 +15989,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Ae</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15362,6 +16016,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ter</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15373,6 +16033,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>num</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15384,6 +16051,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>fle</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15395,6 +16068,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>bi</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15411,6 +16090,12 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15437,6 +16122,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>Et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15451,6 +16142,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>si</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15462,6 +16160,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>non</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15477,8 +16180,12 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>os</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15493,8 +16200,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>ten</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15506,8 +16217,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>di</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15530,6 +16245,13 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>mus.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15584,8 +16306,13 @@
                 <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
@@ -15601,8 +16328,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15626,6 +16357,12 @@
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>mae.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -15696,7 +16433,7 @@
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Oh.</text>
+                <text>O</text>
                 </Lyrics>
               <Note>
                 <linked>
