@@ -22,3 +22,8 @@ guitar											cithara
 Lacrimosa
 ---------
 Tears now and tomorrow.							Lacrimosa nunc et cras.
+We will cry forever.							Aetermum flebimus.
+Though we show it not 							Etsi non ostendimus.
+Tears.											Lacrimae.
+
+
