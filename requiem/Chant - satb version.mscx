@@ -1024,6 +1024,11 @@
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -1084,6 +1089,17 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -1109,6 +1125,24 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -1131,6 +1165,13 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2151,6 +2192,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -2173,6 +2225,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -2399,6 +2458,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2480,6 +2544,17 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -2505,6 +2580,24 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2527,6 +2620,13 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3574,6 +3674,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -3596,6 +3707,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -3824,6 +3942,11 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -3857,6 +3980,17 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -3882,6 +4016,24 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3904,6 +4056,13 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -4974,6 +5133,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -4996,6 +5166,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -6764,6 +6941,12 @@
                 </linked>
               <durationType>half</durationType>
               </Rest>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -6831,6 +7014,18 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -6857,6 +7052,25 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -6882,6 +7096,13 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8213,6 +8434,18 @@
                   </location>
                 </next>
               </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8254,6 +8487,13 @@
               <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
               <prev>
                 <location>
                   <measures>-1</measures>
@@ -8529,6 +8769,13 @@
                 </linked>
               <text>a tempo</text>
               </Tempo>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -8623,6 +8870,18 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8654,6 +8913,25 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -8680,6 +8958,13 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10147,6 +10432,18 @@
                   </location>
                 </next>
               </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10185,6 +10482,13 @@
               <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
               <prev>
                 <location>
                   <measures>-1</measures>
@@ -10480,6 +10784,12 @@
               <sigN>2</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -10514,6 +10824,18 @@
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10545,6 +10867,25 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10571,6 +10912,13 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -12021,6 +12369,18 @@
                   </location>
                 </next>
               </Spanner>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>1</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -12058,6 +12418,13 @@
               <text>poco meno mosso</text>
               </Tempo>
             <Spanner type="Volta">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="HairPin">
               <prev>
                 <location>
                   <measures>-1</measures>
