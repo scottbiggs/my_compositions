@@ -1,14 +1,24 @@
 Note: the audience words start with a hyphen
 
-Greeting
---------
+Introit
+-------
 
-In the name of Oscar, Cecil, and Mary.			In nomine Oscar, Cecilius et Maria.
--So be it.										Amen.
-
-Be with your brothers,							Esto fratribus tuis,
--And they with you.								Et apud te.
+Requiem aeternam habebimus omnes.				We shall all have eternal rest.
+Memorias et vivet in aeternum.					Memories will live forever.
+Lux perpetua lucebit eis in aeternum.			A perpetual light will shine on them forever.
 
 Prepare ourselves to celebrate					Para nos ad celebrandum
 the life of a man.  							Vita hominis.
-A good man.										Vir bonus.
+-A good man.									Vir bonus.
+
+
+.
+.
+.
+
+guitar											cithara
+
+
+Lacrimosa
+---------
+Tears now and tomorrow.							Lacrimosa nunc et cras.

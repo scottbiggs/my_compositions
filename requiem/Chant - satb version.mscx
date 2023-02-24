@@ -367,6 +367,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>La</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -376,6 +381,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>cri</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -385,6 +395,11 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <linkedMain/>
+              <text>mo</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -394,6 +409,12 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <linkedMain/>
+              <text>sa</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -427,12 +448,20 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>nunc</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -441,6 +470,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>et</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -457,12 +490,20 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain/>
+              <text>cras.</text>
+              </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -1832,6 +1873,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -1862,6 +1907,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -3256,6 +3305,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -3283,6 +3336,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -4639,6 +4696,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -4669,6 +4730,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <linkedMain/>
+            </Breath>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -5955,6 +6020,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>La</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -5966,6 +6037,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>cri</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -5977,6 +6054,12 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>middle</syllabic>
+                <linked>
+                  </linked>
+                <text>mo</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -5988,6 +6071,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
+                <linked>
+                  </linked>
+                <text>sa</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -6022,6 +6112,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>nunc</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -6029,6 +6124,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>p</subtype>
               <velocity>49</velocity>
@@ -6039,6 +6139,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>et</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -6054,6 +6159,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Lyrics>
+                <linked>
+                  </linked>
+                <text>cras.</text>
+                </Lyrics>
               <Note>
                 <linked>
                   </linked>
@@ -6061,6 +6171,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>mf</subtype>
               <velocity>80</velocity>
@@ -7730,6 +7845,11 @@
                 <tpc2>14</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>p</subtype>
               <velocity>49</velocity>
@@ -7767,6 +7887,11 @@
                 <tpc2>14</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>mf</subtype>
               <velocity>80</velocity>
@@ -9663,6 +9788,11 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>p</subtype>
               <velocity>49</velocity>
@@ -9697,6 +9827,11 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>mf</subtype>
               <velocity>80</velocity>
@@ -11534,6 +11669,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>p</subtype>
               <velocity>49</velocity>
@@ -11566,6 +11706,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Breath>
+              <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
+              </Breath>
             <Dynamic>
               <subtype>mf</subtype>
               <velocity>80</velocity>
