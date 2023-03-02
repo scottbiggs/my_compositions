@@ -697,8 +697,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -966,8 +966,8 @@
             <text>poco meno mosso</text>
             </Tempo>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="Volta">
@@ -1879,8 +1879,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -1977,8 +1977,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -2109,6 +2109,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -2429,8 +2433,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -2705,8 +2709,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -3595,8 +3599,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -3753,8 +3757,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -3879,6 +3883,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4187,8 +4195,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -4463,8 +4471,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -5234,8 +5242,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -5385,8 +5393,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -5486,6 +5494,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -5834,8 +5846,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -6110,8 +6122,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -6745,8 +6757,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -6838,8 +6850,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -6948,6 +6960,10 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -10262,8 +10278,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -10572,8 +10588,8 @@
               <text>poco meno mosso</text>
               </Tempo>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -11606,8 +11622,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>p</subtype>
-              <velocity>49</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -11718,8 +11734,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -11868,6 +11884,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -12374,8 +12395,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -12766,8 +12787,8 @@
               <sigD>4</sigD>
               </TimeSig>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -13858,8 +13879,8 @@
             </LayoutBreak>
           <voice>
             <Dynamic>
-              <subtype>p</subtype>
-              <velocity>49</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -14065,8 +14086,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -14220,6 +14241,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -14716,8 +14742,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -15105,8 +15131,8 @@
               <sigD>4</sigD>
               </TimeSig>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -16058,8 +16084,8 @@
             </LayoutBreak>
           <voice>
             <Dynamic>
-              <subtype>p</subtype>
-              <velocity>49</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -16252,8 +16278,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -16378,6 +16404,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16890,8 +16921,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -17277,8 +17308,8 @@
               <sigD>4</sigD>
               </TimeSig>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -18060,8 +18091,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>p</subtype>
-              <velocity>49</velocity>
+              <subtype>pp</subtype>
+              <velocity>33</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -18180,8 +18211,8 @@
         <Measure>
           <voice>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -18302,6 +18333,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
