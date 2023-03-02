@@ -420,8 +420,8 @@
             <text>moderato</text>
             </Tempo>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -576,8 +576,8 @@
             <linkedMain/>
             </Breath>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -1060,6 +1060,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -1116,6 +1127,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -1519,6 +1537,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -1531,6 +1553,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>72</pitch>
@@ -1540,6 +1566,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>72</pitch>
@@ -1633,6 +1663,10 @@
               <linkedMain/>
               <text>ta</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Spanner type="Tie">
@@ -2059,6 +2093,7 @@
             <next>
               <location>
                 <measures>1</measures>
+                <fractions>1/1</fractions>
                 </location>
               </next>
             </Spanner>
@@ -2084,33 +2119,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
             </Fermata>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <linkedMain/>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -2123,6 +2135,7 @@
           <Spanner type="HairPin">
             <prev>
               <location>
+                <measures>-1</measures>
                 <fractions>-1/1</fractions>
                 </location>
               </prev>
@@ -2139,8 +2152,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -2295,8 +2308,8 @@
             <linkedMain/>
             </Breath>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -2739,6 +2752,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2778,6 +2802,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -3164,6 +3195,10 @@
               <linkedMain/>
               <text>A</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3181,6 +3216,10 @@
               <linkedMain/>
               <text>ma</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>70</pitch>
@@ -3196,6 +3235,10 @@
               <linkedMain/>
               <text>rum,</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>70</pitch>
@@ -3214,6 +3257,10 @@
               <linkedMain/>
               <text>a</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -3231,6 +3278,10 @@
               <linkedMain/>
               <text>ma</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>70</pitch>
@@ -3246,6 +3297,10 @@
               <linkedMain/>
               <text>rum,</text>
               </Lyrics>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>70</pitch>
@@ -3808,6 +3863,7 @@
             <next>
               <location>
                 <measures>1</measures>
+                <fractions>1/1</fractions>
                 </location>
               </next>
             </Spanner>
@@ -3833,33 +3889,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
             </Fermata>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <linkedMain/>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -3872,6 +3905,7 @@
           <Spanner type="HairPin">
             <prev>
               <location>
+                <measures>-1</measures>
                 <fractions>-1/1</fractions>
                 </location>
               </prev>
@@ -3888,8 +3922,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -4038,8 +4072,8 @@
             <linkedMain/>
             </Breath>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -4473,6 +4507,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -4509,6 +4554,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -4829,6 +4881,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -4841,6 +4897,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -4850,6 +4910,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -4863,6 +4927,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -4875,6 +4943,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -4887,6 +4959,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -5428,6 +5504,7 @@
             <next>
               <location>
                 <measures>1</measures>
+                <fractions>1/1</fractions>
                 </location>
               </next>
             </Spanner>
@@ -5444,33 +5521,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
             </Fermata>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <linkedMain/>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -5486,6 +5540,7 @@
           <Spanner type="HairPin">
             <prev>
               <location>
+                <measures>-1</measures>
                 <fractions>-1/1</fractions>
                 </location>
               </prev>
@@ -5502,8 +5557,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -5658,8 +5713,8 @@
             <linkedMain/>
             </Breath>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
           <Chord>
@@ -6102,6 +6157,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -6141,6 +6207,13 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -6337,6 +6410,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6349,6 +6426,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>46</pitch>
@@ -6358,6 +6439,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>46</pitch>
@@ -6371,6 +6456,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -6380,6 +6469,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6392,6 +6485,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -6869,6 +6966,7 @@
             <next>
               <location>
                 <measures>1</measures>
+                <fractions>1/1</fractions>
                 </location>
               </next>
             </Spanner>
@@ -6885,33 +6983,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
             </Fermata>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <linkedMain/>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -6924,6 +6999,7 @@
           <Spanner type="HairPin">
             <prev>
               <location>
+                <measures>-1</measures>
                 <fractions>-1/1</fractions>
                 </location>
               </prev>
@@ -9875,8 +9951,8 @@
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -10053,8 +10129,8 @@
                 </linked>
               </Breath>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -10607,6 +10683,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -10673,6 +10761,13 @@
               <sigN>2</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -11131,6 +11226,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -11142,6 +11242,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -11153,6 +11258,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -11253,6 +11363,11 @@
                   </linked>
                 <text>ta</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -11734,6 +11849,7 @@
               <next>
                 <location>
                   <measures>1</measures>
+                  <fractions>1/1</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -11763,36 +11879,11 @@
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
                 </linked>
               </Fermata>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>1</subtype>
-                <linked>
-                  </linked>
-                </HairPin>
-              <next>
-                <location>
-                  <fractions>1/1</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -11807,6 +11898,7 @@
             <Spanner type="HairPin">
               <prev>
                 <location>
+                  <measures>-1</measures>
                   <fractions>-1/1</fractions>
                   </location>
                 </prev>
@@ -11941,8 +12033,8 @@
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -12137,8 +12229,8 @@
                 </linked>
               </Breath>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -12731,6 +12823,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -12777,6 +12881,13 @@
               <sigN>2</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -13247,6 +13358,12 @@
                   </linked>
                 <text>A</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -13266,6 +13383,11 @@
                   </linked>
                 <text>ma</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -13285,6 +13407,11 @@
                   </linked>
                 <text>rum,</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -13307,6 +13434,11 @@
                   </linked>
                 <text>a</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -13325,6 +13457,11 @@
                   </linked>
                 <text>ma</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -13344,6 +13481,11 @@
                   </linked>
                 <text>rum,</text>
                 </Lyrics>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -14058,6 +14200,7 @@
               <next>
                 <location>
                   <measures>1</measures>
+                  <fractions>1/1</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -14089,36 +14232,11 @@
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
                 </linked>
               </Fermata>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>1</subtype>
-                <linked>
-                  </linked>
-                </HairPin>
-              <next>
-                <location>
-                  <fractions>1/1</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -14134,6 +14252,7 @@
             <Spanner type="HairPin">
               <prev>
                 <location>
+                  <measures>-1</measures>
                   <fractions>-1/1</fractions>
                   </location>
                 </prev>
@@ -14268,8 +14387,8 @@
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -14458,8 +14577,8 @@
                 </linked>
               </Breath>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -15043,6 +15162,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15089,6 +15220,13 @@
               <sigN>2</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15488,6 +15626,12 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -15501,6 +15645,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15513,6 +15662,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15529,6 +15683,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15541,6 +15700,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15553,6 +15717,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16230,6 +16399,7 @@
               <next>
                 <location>
                   <measures>1</measures>
+                  <fractions>1/1</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -16249,36 +16419,11 @@
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
                 </linked>
               </Fermata>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>1</subtype>
-                <linked>
-                  </linked>
-                </HairPin>
-              <next>
-                <location>
-                  <fractions>1/1</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -16294,6 +16439,7 @@
             <Spanner type="HairPin">
               <prev>
                 <location>
+                  <measures>-1</measures>
                   <fractions>-1/1</fractions>
                   </location>
                 </prev>
@@ -16428,8 +16574,8 @@
               <text>moderato</text>
               </Tempo>
             <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
@@ -16611,8 +16757,8 @@
                 </linked>
               </Breath>
             <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
+              <subtype>f</subtype>
+              <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
@@ -17184,6 +17330,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -17230,6 +17388,13 @@
               <sigN>2</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -17492,6 +17657,12 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   <indexDiff>2</indexDiff>
@@ -17504,6 +17675,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17515,6 +17691,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17530,6 +17711,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17541,6 +17727,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17555,6 +17746,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18126,6 +18322,7 @@
               <next>
                 <location>
                   <measures>1</measures>
+                  <fractions>1/1</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -18144,36 +18341,11 @@
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
                 </linked>
               </Fermata>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>1</subtype>
-                <linked>
-                  </linked>
-                </HairPin>
-              <next>
-                <location>
-                  <fractions>1/1</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18188,6 +18360,7 @@
             <Spanner type="HairPin">
               <prev>
                 <location>
+                  <measures>-1</measures>
                   <fractions>-1/1</fractions>
                   </location>
                 </prev>
