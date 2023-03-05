@@ -2067,10 +2067,15 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <duration>5/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -4071,6 +4076,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -4101,7 +4111,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
@@ -4116,6 +4126,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <linkedMain/>
             </Breath>
           </voice>
         </Measure>
@@ -6018,6 +6029,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -6048,7 +6064,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
@@ -6063,6 +6079,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <linkedMain/>
             </Breath>
           </voice>
         </Measure>
@@ -7770,10 +7787,15 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <duration>5/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -9307,9 +9329,13 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <durationType>measure</durationType>
-            <duration>6/4</duration>
+            <duration>5/4</duration>
             </Rest>
           </voice>
         <voice>
@@ -9328,7 +9354,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -10666,6 +10692,10 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -10681,7 +10711,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -12817,36 +12847,19 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="12/4">
-          <multiMeasureRest>2</multiMeasureRest>
+        <Measure>
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-3</indexDiff>
                 </linked>
-              <sigN>6</sigN>
+              <sigN>5</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Tempo>
-              <tempo>1.6333333333333333</tempo>
-              <linked>
-                <indexDiff>-3</indexDiff>
-                </linked>
-              <text>poco meno mosso</text>
-              </Tempo>
-            <Rest>
-              <durationType>measure</durationType>
-              <duration>12/4</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
-              <duration>6/4</duration>
+              <duration>5/4</duration>
               </Rest>
             </voice>
           </Measure>
@@ -15462,6 +15475,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -15472,12 +15491,13 @@
                   </linked>
                 <text>ci</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                <tpc2>13</tpc2>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -15490,18 +15510,19 @@
                   </linked>
                 <text>ne</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                <tpc2>13</tpc2>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
                 <ticks_f>0/4</ticks_f>
@@ -15509,16 +15530,19 @@
                   </linked>
                 <text>rem.</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                <tpc2>13</tpc2>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Breath>
               <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
               </Breath>
             </voice>
           </Measure>
@@ -15538,16 +15562,6 @@
               <linked>
                 </linked>
               </Dynamic>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>0</subtype>
-                </HairPin>
-              <next>
-                <location>
-                  <measures>2</measures>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -15560,6 +15574,17 @@
                 <tpc2>13</tpc2>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15665,13 +15690,6 @@
               <linked>
                 </linked>
               </Dynamic>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-2</measures>
-                  </location>
-                </prev>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15694,6 +15712,14 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  <fractions>1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>1</subtype>
@@ -18029,6 +18055,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -18039,12 +18071,13 @@
                   </linked>
                 <text>ci</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>53</pitch>
-                <tpc>13</tpc>
-                <tpc2>14</tpc2>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -18057,18 +18090,19 @@
                   </linked>
                 <text>ne</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>53</pitch>
-                <tpc>13</tpc>
-                <tpc2>14</tpc2>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
                 <ticks_f>0/4</ticks_f>
@@ -18076,16 +18110,19 @@
                   </linked>
                 <text>rem.</text>
                 </Lyrics>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>53</pitch>
-                <tpc>13</tpc>
-                <tpc2>14</tpc2>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Breath>
               <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
               </Breath>
             </voice>
           </Measure>
@@ -18105,16 +18142,6 @@
               <linked>
                 </linked>
               </Dynamic>
-            <Spanner type="HairPin">
-              <HairPin>
-                <subtype>0</subtype>
-                </HairPin>
-              <next>
-                <location>
-                  <measures>2</measures>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -18127,6 +18154,17 @@
                 <tpc2>14</tpc2>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>2</measures>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18232,13 +18270,6 @@
               <linked>
                 </linked>
               </Dynamic>
-            <Spanner type="HairPin">
-              <prev>
-                <location>
-                  <measures>-2</measures>
-                  </location>
-                </prev>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18257,6 +18288,14 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -20319,38 +20358,19 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="12/4">
-          <multiMeasureRest>2</multiMeasureRest>
+        <Measure>
           <voice>
             <TimeSig>
               <linked>
                 </linked>
-              <sigN>6</sigN>
+              <sigN>5</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Tempo>
-              <tempo>1.6333333333333333</tempo>
-              <linked>
-                <location>
-                  <staves>-3</staves>
-                  </location>
-                <indexDiff>2</indexDiff>
-                </linked>
-              <text>poco meno mosso</text>
-              </Tempo>
-            <Rest>
-              <durationType>measure</durationType>
-              <duration>12/4</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
-              <duration>6/4</duration>
+              <duration>5/4</duration>
               </Rest>
             </voice>
           </Measure>
