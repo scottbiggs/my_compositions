@@ -1,7 +1,7 @@
-﻿Latin Proof
+Latin Proof
 
 
-Lacrimae nūnc et crās
+Lacrimae et nūnc et crās
         Lacrimae is “tears;” lacrimosa is “tearful” 
 In saeculum flebimus
 In saeculum has the sense of “forever” in human generations; aeternum would be okay but is less common, I’d say.
@@ -17,8 +17,10 @@ Consolatoio is not a Latin word; frigida consolatio is the proper format of “c
 
 Ego oblīvīscar aliquandō
 Ego here is emphatic and not necessary; you might also want nos obliviscemur for the first person plural. Note in pronunciation you’d want to elide the ending/beginning vowels together: egobliviscar aliquando
+
 Acris, acris, acerbitātum, tristitiae.
 I’m taking these as the direct object of “forget” in the previous line, and obliviscor usually calls for the genitive case. Here I’ve taken the acris, acris to describe tristitiae, so these are all singular; I think a reader would assume that acris could describe acerbitatum as well (“bitterness” is acerbitas, but always rendered in the plural when describing feelings). If you’re intending to not forget the person, you might specify tui with obliviscar in the first line, and then use the accusative of exclamation in this line: acrem, acrem, acerbitates, tristitiam.
+
 Flēre nōn dēsinēmus
 Sed nōn oblīvīscēmur tui.
 Your English translation says “we will forget” but the Latin is in the negative – I’m assuming you meant the negative? Or did you mean that you will forget the sadness? In that case you’d drop the non and substitute eius or perhaps eam, or eas to refer to both bitterness and sadness.
