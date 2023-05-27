@@ -227,12 +227,6 @@
             <sigD>4</sigD>
             <showCourtesySig>0</showCourtesySig>
             </TimeSig>
-          <Tempo>
-            <tempo>1.3333299999999999</tempo>
-            <followText>1</followText>
-            <linkedMain/>
-            <text>Moderato</text>
-            </Tempo>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -3138,13 +3132,6 @@
               <sigD>4</sigD>
               <showCourtesySig>0</showCourtesySig>
               </TimeSig>
-            <Tempo>
-              <tempo>1.3333299999999999</tempo>
-              <followText>1</followText>
-              <linked>
-                </linked>
-              <text>Moderato</text>
-              </Tempo>
             <Chord>
               <linked>
                 </linked>
@@ -4432,25 +4419,12 @@
               <sigD>4</sigD>
               <showCourtesySig>0</showCourtesySig>
               </TimeSig>
-            <Tempo>
-              <tempo>1.3333299999999999</tempo>
-              <followText>1</followText>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                <indexDiff>5</indexDiff>
-                </linked>
-              <text>Moderato</text>
-              </Tempo>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
@@ -5759,25 +5733,12 @@
               <sigD>4</sigD>
               <showCourtesySig>0</showCourtesySig>
               </TimeSig>
-            <Tempo>
-              <tempo>1.3333299999999999</tempo>
-              <followText>1</followText>
-              <linked>
-                <location>
-                  <staves>-2</staves>
-                  </location>
-                <indexDiff>5</indexDiff>
-                </linked>
-              <text>Moderato</text>
-              </Tempo>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <Accidental>
                   <subtype>accidentalFlat</subtype>
