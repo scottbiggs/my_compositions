@@ -13,6 +13,7 @@
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <harmonyPlay>0</harmonyPlay>
+      <concertPitch>1</concertPitch>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>206</defaultsVersion>
       <Spatium>1.76389</Spatium>
@@ -220,6 +221,9 @@
         </VBox>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>-2</accidental>
+            </KeySig>
           <TimeSig>
             <linkedMain/>
             <visible>0</visible>
@@ -706,7 +710,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1165,6 +1169,10 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <StaffText>
+            <linkedMain/>
+            <text>*</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -1201,10 +1209,91 @@
             </BarLine>
           </voice>
         </Measure>
+      <HBox>
+        <width>5</width>
+        <linkedMain/>
+        </HBox>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <StaffText>
+            <linkedMain/>
+            <text>* Alternatives if not 
+   easily playable</text>
+            </StaffText>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <appoggiatura/>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>90</pitch>
+              <tpc>20</tpc>
+              <tpc2>22</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <linkedMain/>
+              <pitch>91</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <StaffText>
+            <linkedMain/>
+            <text>or</text>
+            </StaffText>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>84</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <HBox>
+        <width>5</width>
+        <linkedMain/>
+        </HBox>
       </Staff>
     <Staff id="2">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>-2</accidental>
+            </KeySig>
           <TimeSig>
             <linkedMain/>
             <visible>0</visible>
@@ -1453,7 +1542,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -1525,7 +1614,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2082,7 +2171,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -2204,6 +2293,20 @@
             <subtype>end</subtype>
             <linkedMain/>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <linkedMain/>
+            <durationType>measure</durationType>
+            <duration>6/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3011,6 +3114,20 @@
             <subtype>end</subtype>
             <linkedMain/>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <linkedMain/>
+            <durationType>measure</durationType>
+            <duration>6/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -4243,6 +4360,12 @@
                 <tpc2>15</tpc2>
                 </Note>
               </Chord>
+            <StaffText>
+              <linked>
+                </linked>
+              <offset x="-1.22374" y="-4.74324"/>
+              <text>*</text>
+              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -4286,6 +4409,112 @@
               </BarLine>
             </voice>
           </Measure>
+        <HBox>
+          <width>21.0352</width>
+          <linked>
+            </linked>
+          </HBox>
+        <Measure>
+          <stretch>0.4</stretch>
+          <MeasureNumber>
+            <visible>0</visible>
+            <text>7</text>
+            </MeasureNumber>
+          <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <visible>0</visible>
+              <sigN>6</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <StaffText>
+              <linked>
+                </linked>
+              <offset x="-28.1883" y="-0.683677"/>
+              <text>* Alternatives if not 
+   easily playable</text>
+              </StaffText>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
+              <appoggiatura/>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <bracket>1</bracket>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>90</pitch>
+                <tpc>20</tpc>
+                <tpc2>22</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
+              <Stem>
+                </Stem>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>91</pitch>
+                <tpc>15</tpc>
+                <tpc2>17</tpc2>
+                </Note>
+              </Chord>
+            <StaffText>
+              <linked>
+                </linked>
+              <offset x="-4.86376" y="-1.29255"/>
+              <text>or</text>
+              </StaffText>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>84</pitch>
+                <tpc>14</tpc>
+                <tpc2>16</tpc2>
+                </Note>
+              </Chord>
+            <BarLine>
+              <subtype>end</subtype>
+              <visible>0</visible>
+              </BarLine>
+            </voice>
+          </Measure>
+        <HBox>
+          <width>5</width>
+          <topGap>50</topGap>
+          <linked>
+            </linked>
+          </HBox>
         </Staff>
       <name>B♭ Clarinet 1</name>
       </Score>
@@ -5600,6 +5829,41 @@
               </BarLine>
             </voice>
           </Measure>
+        <HBox>
+          <width>5</width>
+          <linked>
+            <location>
+              <staves>-1</staves>
+              </location>
+            <indexDiff>1</indexDiff>
+            </linked>
+          </HBox>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <sigN>6</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Rest>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <durationType>measure</durationType>
+              <duration>6/4</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <HBox>
+          <width>5</width>
+          <linked>
+            <location>
+              <staves>-1</staves>
+              </location>
+            </linked>
+          </HBox>
         </Staff>
       <name>B♭ Clarinet 2</name>
       </Score>
@@ -6683,6 +6947,41 @@
               </BarLine>
             </voice>
           </Measure>
+        <HBox>
+          <width>5</width>
+          <linked>
+            <location>
+              <staves>-2</staves>
+              </location>
+            <indexDiff>1</indexDiff>
+            </linked>
+          </HBox>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <sigN>6</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
+            <Rest>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <durationType>measure</durationType>
+              <duration>6/4</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <HBox>
+          <width>5</width>
+          <linked>
+            <location>
+              <staves>-2</staves>
+              </location>
+            </linked>
+          </HBox>
         </Staff>
       <name>Bassoon</name>
       </Score>
