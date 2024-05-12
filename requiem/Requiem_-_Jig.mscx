@@ -2135,6 +2135,12 @@
           <style>Title</style>
           <text>Requiem - Jig</text>
           </Text>
+        <Text>
+          <style>Subtitle</style>
+          <size>6</size>
+          <text>Form: develop the melody in a typical way. When things start to get repetetive, immediately go into a harsh and sad/dissonant mode.  This dissonance should be slowly lifted,
+part by part, finishing in a pure clean and simple sound, much like the beignning.</text>
+          </Text>
         </VBox>
       <Measure len="3/8">
         <irregular>1</irregular>
