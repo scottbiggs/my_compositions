@@ -10,7 +10,6 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <concertPitch>1</concertPitch>
-      <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <Spatium>0.95</Spatium>
       </Style>
@@ -1374,6 +1373,7 @@
         <defaultClef>PERC</defaultClef>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Snare Drum</trackName>
       <Instrument id="snare-drum">
         <longName>Snare Drum</longName>
@@ -1446,6 +1446,7 @@
         <defaultClef>PERC</defaultClef>
         <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Bass Drum</trackName>
       <Instrument id="bass-drum">
         <longName>Bass Drum</longName>
@@ -2247,9 +2248,6 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 62</b></text>
             </Tempo>
-          <StaffText>
-            <text></text>
-            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>
@@ -7857,8 +7855,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -13546,8 +13544,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -19235,8 +19233,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -24924,8 +24922,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -31723,8 +31721,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -36228,8 +36226,8 @@
             <text>Metronome</text>
             </StaffText>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -40821,8 +40819,8 @@
             <text>Alto</text>
             </StaffText>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
             </Dynamic>
           <Chord>
             <durationType>breve</durationType>
@@ -40928,10 +40926,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Chord>
             <durationType>breve</durationType>
             <Spanner type="Slur">
@@ -41309,8 +41303,8 @@
             <text>Bass</text>
             </StaffText>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
             </Dynamic>
           <Chord>
             <durationType>breve</durationType>

@@ -1,0 +1,85 @@
+Latin Proof
+
+
+Lacrimae et nūnc et crās
+        Lacrimae is “tears;” lacrimosa is “tearful” 
+In saeculum flebimus
+In saeculum has the sense of “forever” in human generations; aeternum would be okay but is less common, I’d say.
+Etsi nōn ostendimus.
+        Etsi has a sense of “even if” – that works here, just clarifying for your translation.
+Lacrimae
+O
+Cinerēs dēmum manent
+Tantum has a sense of “so much” as far as size, whereas demum has a sense of “only” as in time, like “in the end;” tantum feels off to me. Cineres means “ashes” and just like in English should be used in the plural when referring to human remains especially. Manent works here, but so would remanent, if you need a syllable.
+Frīgida cōnsōlātiō.
+Consolatoio is not a Latin word; frigida consolatio is the proper format of “cold comfort” and I’m assuming it is a subject in apposition to cineres/ashes. If it’s supposed to be more of an exclamation, it should be frigidam consolationem.
+
+
+Ego oblīvīscar aliquandō
+Ego here is emphatic and not necessary; you might also want nos obliviscemur for the first person plural. Note in pronunciation you’d want to elide the ending/beginning vowels together: egobliviscar aliquando
+
+Acris, acris, acerbitātum, tristitiae.
+I’m taking these as the direct object of “forget” in the previous line, and obliviscor usually calls for the genitive case. Here I’ve taken the acris, acris to describe tristitiae, so these are all singular; I think a reader would assume that acris could describe acerbitatum as well (“bitterness” is acerbitas, but always rendered in the plural when describing feelings). If you’re intending to not forget the person, you might specify tui with obliviscar in the first line, and then use the accusative of exclamation in this line: acrem, acrem, acerbitates, tristitiam.
+
+Flēre nōn dēsinēmus
+Sed nōn oblīvīscēmur tui.
+Your English translation says “we will forget” but the Latin is in the negative – I’m assuming you meant the negative? Or did you mean that you will forget the sadness? In that case you’d drop the non and substitute eius or perhaps eam, or eas to refer to both bitterness and sadness.
+
+
+Lacrimae in cinerēs depluunt.
+“X rains down on y” has precedents in Latin using depleo in + accusative object, so I rendered it this way. This is literally “tears rain down on ashes.” In pronunciation you’d combine the first two words: lacrimin. That’s 9 syllables, I’m afraid.
+In saeculum flebimus.
+
+
+Lacrimae!
+
+
+---------------------------
+Given Latin 
+
+
+Lacrimosa nunc et cras. 
+Aeternum flebimus. 
+Etsi non ostendimus. 
+Lacrimae. 
+O 
+Tantum cineres manent. 
+Frigus consolatoio. 
+
+
+Ego obliviscar aliquando, 
+Amarum, amarum, in amarum, tristia. 
+Flere non desinemus. 
+Sed obliviscinolumus. 
+Pluit pluit indu cinerem.  [indu cinerem would be better with one fewer syllables]
+Aetermum flebimus. 
+Lacrimosa! 
+
+
+---------------------------
+Given translation
+
+
+Tears now and tomorrow.
+We will cry forever.
+Though we show it not.
+Tears.
+
+
+Only his ashes remain.
+Cold comfort.
+
+
+I will forget some day,
+Bitter, bitter, bitterness, sadness.
+
+
+We will not stop crying.
+But we will not forget.
+
+
+Raining on ashes. <-- better would be "Tears rain on ashes"
+
+
+We will cry forever.
+Tears.
