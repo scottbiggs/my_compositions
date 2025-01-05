@@ -308,7 +308,7 @@
             <linkedMain/>
             </Dynamic>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.6666666666666667</tempo>
             <linkedMain/>
             <visible>0</visible>
             <text>Adagio</text>
@@ -646,7 +646,7 @@
             <linkedMain/>
             </Dynamic>
           <Tempo>
-            <tempo>1.7</tempo>
+            <tempo>1.6000000000000001</tempo>
             <linkedMain/>
             <text>meno mosso</text>
             </Tempo>
@@ -859,7 +859,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.6666666666666667</tempo>
             <linkedMain/>
             <text>a tempo</text>
             </Tempo>
@@ -1165,7 +1165,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.8333333333333333</tempo>
+            <tempo>1.6666666666666667</tempo>
             <linkedMain/>
             <text>a tempo</text>
             </Tempo>
@@ -1321,7 +1321,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.7</tempo>
+            <tempo>1.6000000000000001</tempo>
             <linkedMain/>
             <text>meno mosso</text>
             </Tempo>
@@ -5197,7 +5197,7 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 </linked>
               <visible>0</visible>
@@ -5596,7 +5596,7 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 </linked>
               <text>meno mosso</text>
@@ -5851,7 +5851,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 </linked>
               <text>a tempo</text>
@@ -6214,7 +6214,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 </linked>
               <text>a tempo</text>
@@ -6404,7 +6404,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 </linked>
               <text>meno mosso</text>
@@ -6705,7 +6705,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -7159,7 +7159,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -7435,7 +7435,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -7849,7 +7849,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -8060,7 +8060,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -8449,7 +8449,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -8888,7 +8888,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -9167,7 +9167,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -9547,7 +9547,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -9758,7 +9758,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -10135,7 +10135,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -10561,7 +10561,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -10828,7 +10828,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -11136,7 +11136,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.8333333333333333</tempo>
+              <tempo>1.6666666666666667</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -11338,7 +11338,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.7</tempo>
+              <tempo>1.6000000000000001</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
